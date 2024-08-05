@@ -8,4 +8,6 @@
   - name: gradlew bootJar
   - name: copy jar to server
   - name: SSH Commands
-- Deploy on AWS(EC2)
+- Deploy to AWS(EC2)
+
+![cicd_aws_img](https://github.com/user-attachments/assets/9340beb1-e823-452c-bd63-43bfc8da9c20)
